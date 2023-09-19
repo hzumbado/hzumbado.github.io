@@ -1,0 +1,30 @@
+---
+title: "Projects"
+editor: visual
+---
+
+## Climatic suitability for invasive moths in the US West
+
+I am investigating the prospective invasion dynamics of a pest complex, using the European grapevine moth (Lobesia botrana) and related Tortricid moth pests of grapevines as a focal system. The goal of the project is to refine ongoing surveillance programs and guide regulatory response in the event that one or more of these invasive moths are introduced into the Western US. My research activities include a combination of species distribution modeling, network analysis of invasion pathways and regional patterns of spread, and simulation modeling of trapping network efficacy
+
+::: {layout-ncol="2"}
+![adult](lobesia-botrana.jpg){width="3in"}
+
+![larvae](lobesia-botrana-larva.jpg){width="3in"}
+:::
+
+## CoastEnvironmental refugia exclude reservoir species
+
+In collaboration with researchers at Purdue University and the University of Costa Rica, I am testing the hypothesis that environmental refugia exist for susceptible species under conditions that exclude reservoir species. For this, I used the amphibian host-chytrid pathogen as the study system
+
+## Diversity and conservation status of treefrogs in Costa Rica
+
+In a collaborative effort between researchers at Purdue University and the University of Costa Rica, we are describing the status of 48 known species of treefrogs in Costa Rica and updating the range of several species that have been observed more frequently in the last two decades
+
+## Conservation of robber frogs in Mesoamerica
+
+With the collaboration of numerous researchers from Latin America and the US, I am quantifying the threats that affect robber frogs, one of the groups most affected by the amphibian declines that occurred throughout Mesoamerica during the 1980s and 1990s.
+
+## Dynamics of an amphibian pathogen in Costa Rica
+
+I evaluated the disease dynamics of the chytrid fungus Batrachichytrium dendrobatidis in Costa Rica across altitudinal and latitudinal gradients. I also quantified the geographic expansion of this pathogen from epizootic dynamics to enzootic dynamics

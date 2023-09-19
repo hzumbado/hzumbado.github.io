@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+During my studies, I have worked on conservation projects for multiple taxa, especially freshwater and terrestrial communities. I have dedicated most of my reserch, especially during grad school to the study of host-pathogen dynamics in amphibian communities. I mainly examined the effect of the chytrid pathogen ***Batrachochytrium dendrobatidis*** in the distribution of ammphibians in the Tropics of Central America. However, my methods can be used on different taxa and the results of my studies have been used to develop management plans for threatened species at the regional and local levels. 

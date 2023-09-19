@@ -1,11 +1,22 @@
 ---
 title: "Hector Zumbado-Ulate, PhD"
+image: frog.jpg
+about: 
+  template: jolla
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: zumbadohector@gmail.com
+    - text: Github
+      icon: github
+      href: https://hzumbado.github.io  
 ---
 
-This is a Quarto website.
+I am interested in quantifying how environmental threats (e.g., pathogens, invasive species, climate change, and habitat deterioration) drive the distribution of native species in different spatiotemporal scales. I am also interested in identifying the environmental factors (biotic and abiotic) that constrain, partially or totally, the negative effect of threats on endangered species. For this, I use a combination of spatial analyses, geographic information systems, and niche modeling. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+
+
+

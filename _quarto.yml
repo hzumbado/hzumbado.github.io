@@ -9,12 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
+      - projects.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
+    mainfont: arial
+    fontsize: 1.2rem
     css: styles.css
     toc: true
-
-
-
