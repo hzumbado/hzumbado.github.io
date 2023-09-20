@@ -3,23 +3,29 @@ title: "Projects"
 editor: visual
 ---
 
+## Composition and resilience of desert plant communities
+
+In collabortion with multiple researchers of the [Center for Conservation Biology](https://ccb.ucr.edu/) at UC Riverside, under the supervsion of Drs. [Lynn Sweet](https://profiles.ucr.edu/app/home/profile/lwihb001) and [Darrell Jenerette](https://faculty.ucr.edu/~gdjen/), I am evaluatig the current and future distribution of perennial desert plants in the Coachella Valley and neighboring areas in Southern California under several scenarios of future climate change. The main aims of this project are 1) to identify current hotspots of carbon production storage, 2) identify biological interactions among community members, and 3) predict changes in the community composition of desert plants in the lower sections of the Coachella Valley. Furthermore, this project offers a strong focus on conservation outreach to local communities.
+
 ## Climatic suitability for invasive moths in the US West Coast
 
-In collaboration with [Daugherty Lab](https://faculty.ucr.edu/~mattd/people.html "UCR website") (UC Riverside) and [USDA-APHIS](https://www.aphis.usda.gov/aphis/home/ "official website") I investigated the prospective invasion dynamics of a pest complex, using the European grapevine moth (EGVM, *Lobesia botrana*) and related Tortricid and Pyralidae moth pests of grapevines as a focal system. The goal of the project is to refine ongoing surveillance programs and guide regulatory response in the event that one or more of these invasive moths are introduced into the Western US. My research activities include a combination of species distribution modeling, network analysis of invasion pathways and regional patterns of spread, and simulation modeling of trapping network efficacy
+In collaboration with [Daugherty Lab](https://faculty.ucr.edu/~mattd/people.html "UCR website") (UC Riverside) and [USDA-APHIS](https://www.aphis.usda.gov/aphis/home/ "official website") I investigated the prospective invasion dynamics of a pest complex, using the European grapevine moth @fig-1 (EGVM, *Lobesia botrana*) and related Tortricid and Pyralidae moth pests of grapevines as a focal system. The goal of the project is to refine ongoing surveillance programs and guide regulatory response in the event that one or more of these invasive moths are introduced into the Western US. My research activities include a combination of species distribution modeling, network analysis of invasion pathways and regional patterns of spread, and simulation modeling of trapping network efficacy
 
-::: {layout-ncol="2"}
+::: {#fig-1 layout-ncol="2"}
+![larvae of EGVM](lobesia-botrana-larva.jpg){width="3in"}
+
 ![adult of EGVM](lobesia-botrana.jpg){width="3in"}
 
-![larvae of EGVM](lobesia-botrana-larva.jpg){width="3in"}
+European grapevine moth *Lobesia botrana*
 :::
 
 ## Environmental refugia exclude reservoir species
 
-In collaboration with [Dr. Catherine L. Searle](https://www.bio.purdue.edu/lab/searle/) at Purdue University, I am evaluating the hypothesis that environmental refugia exist for susceptible species under conditions that exclude reservoir species. For this, I am usingthe amphibian host-chytrid pathogen as the study system.
+In collaboration with [Dr. Catherine L. Searle](https://www.bio.purdue.edu/lab/searle/) at Purdue University, I am evaluating the hypothesis that environmental refugia exist for susceptible species under conditions that exclude reservoir species. For this, I am using the amphibian host-chytrid pathogen as the study system.
 
 ## Diversity and conservation status of treefrogs in Costa Rica
 
-In a collaborative effort between researchers at Purdue University and the University of Costa Rica, we described the status of 48 known species of treefrogs in Costa Rica and updated the range of several species that have been reobserved more frequently in the last two decades.
+In a collaborative effort between researchers at Purdue University and the University of Costa Rica, we described the status of 48 known species of treefrogs in Costa Rica and updated the range of several species that have been re-observed more frequently in the last two decades.
 
 ## Conservation of robber frogs in Mesoamerica
 

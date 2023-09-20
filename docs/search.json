@@ -18,35 +18,42 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "During my studies, I have worked on conservation projects for multiple taxa, especially freshwater and terrestrial communities. I have dedicated most of my reserch, especially during grad school to the study of host-pathogen dynamics in amphibian communities. I mainly examined the effect of the chytrid pathogen Batrachochytrium dendrobatidis in the distribution of ammphibians in the Tropics of Central America. However, my methods can be used on different taxa and the results of my studies have been used to develop management plans for threatened species at the regional and local levels."
+    "text": "During my career, I have worked on conservation projects for multiple taxa, especially freshwater and terrestrial communities with the aim of developing management plans for threatened species at the regional and local levels. My research methods follow strict scientific design and center on testable hypotheses analized through a combination of spatial analyses, multivariate statistics, and geographic information systems.\nI have dedicated most of my reserch, especially during grad school to the study of host-pathogen dynamics in amphibian communities. I mainly examined the effect of the chytrid pathogen Batrachochytrium dendrobatidis in the distribution of ammphibians in the Tropics of Central America. In the last years, I have worked on examining present and predicted future geographic distributions of invasive and native species of multiple taxa. I have also invested time in learning proficient tools to improve data wrangling and visualition, and code reproducibility."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In collaboration with Daugherty Lab (UC Riverside) and USDA-APHIS I investigated the prospective invasion dynamics of a pest complex, using the European grapevine moth (EGVM, Lobesia botrana) and related Tortricid and Pyralidae moth pests of grapevines as a focal system. The goal of the project is to refine ongoing surveillance programs and guide regulatory response in the event that one or more of these invasive moths are introduced into the Western US. My research activities include a combination of species distribution modeling, network analysis of invasion pathways and regional patterns of spread, and simulation modeling of trapping network efficacy\n\n\n\n\n\n\nadult of EGVM\n\n\n\n\n\n\n\nlarvae of EGVM"
+    "text": "In collabortion with multiple researchers of the Center for Conservation Biology at UC Riverside, under the supervsion of Drs. Lynn Sweet and Darrell Jenerette, I am evaluatig the current and future distribution of perennial desert plants in the Coachella Valley and neighboring areas in Southern California under several scenarios of future climate change. The main aims of this project are 1) to identify current hotspots of carbon production storage, 2) identify biological interactions among community members, and 3) predict changes in the community composition of desert plants in the lower sections of the Coachella Valley. Furthermore, this project offers a strong focus on conservation outreach to local communities."
   },
   {
-    "objectID": "projects.html#climatic-suitability-for-invasive-moths-in-the-us-west",
-    "href": "projects.html#climatic-suitability-for-invasive-moths-in-the-us-west",
+    "objectID": "projects.html#composition-and-resilience-of-desert-plant-communities",
+    "href": "projects.html#composition-and-resilience-of-desert-plant-communities",
     "title": "Projects",
     "section": "",
-    "text": "I am investigating the prospective invasion dynamics of a pest complex, using the European grapevine moth (Lobesia botrana) and related Tortricid moth pests of grapevines as a focal system. The goal of the project is to refine ongoing surveillance programs and guide regulatory response in the event that one or more of these invasive moths are introduced into the Western US. My research activities include a combination of species distribution modeling, network analysis of invasion pathways and regional patterns of spread, and simulation modeling of trapping network efficacy\n\n\n\n\n\n\nadult\n\n\n\n\n\n\n\nlarvae"
+    "text": "In collabortion with multiple researchers of the Center for Conservation Biology at UC Riverside, under the supervsion of Drs. Lynn Sweet and Darrell Jenerette, I am evaluatig the current and future distribution of perennial desert plants in the Coachella Valley and neighboring areas in Southern California under several scenarios of future climate change. The main aims of this project are 1) to identify current hotspots of carbon production storage, 2) identify biological interactions among community members, and 3) predict changes in the community composition of desert plants in the lower sections of the Coachella Valley. Furthermore, this project offers a strong focus on conservation outreach to local communities."
   },
   {
-    "objectID": "projects.html#coastenvironmental-refugia-exclude-reservoir-species",
-    "href": "projects.html#coastenvironmental-refugia-exclude-reservoir-species",
+    "objectID": "projects.html#climatic-suitability-for-invasive-moths-in-the-us-west-coast",
+    "href": "projects.html#climatic-suitability-for-invasive-moths-in-the-us-west-coast",
     "title": "Projects",
-    "section": "CoastEnvironmental refugia exclude reservoir species",
-    "text": "CoastEnvironmental refugia exclude reservoir species\nIn collaboration with researchers at Purdue University and the University of Costa Rica, I am testing the hypothesis that environmental refugia exist for susceptible species under conditions that exclude reservoir species. For this, I used the amphibian host-chytrid pathogen as the study system"
+    "section": "Climatic suitability for invasive moths in the US West Coast",
+    "text": "Climatic suitability for invasive moths in the US West Coast\nIn collaboration with Daugherty Lab (UC Riverside) and USDA-APHIS I investigated the prospective invasion dynamics of a pest complex, using the European grapevine moth Figure 1 (EGVM, Lobesia botrana) and related Tortricid and Pyralidae moth pests of grapevines as a focal system. The goal of the project is to refine ongoing surveillance programs and guide regulatory response in the event that one or more of these invasive moths are introduced into the Western US. My research activities include a combination of species distribution modeling, network analysis of invasion pathways and regional patterns of spread, and simulation modeling of trapping network efficacy\n\n\n\n\n\n\n\nlarvae of EGVM\n\n\n\n\n\n\n\nadult of EGVM\n\n\n\n\nFigure 1: European grapevine moth Lobesia botrana"
+  },
+  {
+    "objectID": "projects.html#environmental-refugia-exclude-reservoir-species",
+    "href": "projects.html#environmental-refugia-exclude-reservoir-species",
+    "title": "Projects",
+    "section": "Environmental refugia exclude reservoir species",
+    "text": "Environmental refugia exclude reservoir species\nIn collaboration with Dr. Catherine L. Searle at Purdue University, I am evaluating the hypothesis that environmental refugia exist for susceptible species under conditions that exclude reservoir species. For this, I am using the amphibian host-chytrid pathogen as the study system."
   },
   {
     "objectID": "projects.html#diversity-and-conservation-status-of-treefrogs-in-costa-rica",
     "href": "projects.html#diversity-and-conservation-status-of-treefrogs-in-costa-rica",
     "title": "Projects",
     "section": "Diversity and conservation status of treefrogs in Costa Rica",
-    "text": "Diversity and conservation status of treefrogs in Costa Rica\nIn a collaborative effort between researchers at Purdue University and the University of Costa Rica, we described the status of 48 known species of treefrogs in Costa Rica and updated the range of several species that have been reobserved more frequently in the last two decades."
+    "text": "Diversity and conservation status of treefrogs in Costa Rica\nIn a collaborative effort between researchers at Purdue University and the University of Costa Rica, we described the status of 48 known species of treefrogs in Costa Rica and updated the range of several species that have been re-observed more frequently in the last two decades."
   },
   {
     "objectID": "projects.html#conservation-of-robber-frogs-in-mesoamerica",
@@ -61,19 +68,5 @@
     "title": "Projects",
     "section": "Dynamics of an amphibian pathogen in Costa Rica",
     "text": "Dynamics of an amphibian pathogen in Costa Rica\nI evaluated the disease dynamics of the chytrid fungus Batrachichytrium dendrobatidis in Costa Rica across altitudinal and latitudinal gradients. I also quantified the geographic expansion of this pathogen from epizootic dynamics to enzootic dynamics."
-  },
-  {
-    "objectID": "projects.html#climatic-suitability-for-invasive-moths-in-the-us-west-coast",
-    "href": "projects.html#climatic-suitability-for-invasive-moths-in-the-us-west-coast",
-    "title": "Projects",
-    "section": "",
-    "text": "In collaboration with Daugherty Lab (UC Riverside) and USDA-APHIS I investigated the prospective invasion dynamics of a pest complex, using the European grapevine moth (EGVM, Lobesia botrana) and related Tortricid and Pyralidae moth pests of grapevines as a focal system. The goal of the project is to refine ongoing surveillance programs and guide regulatory response in the event that one or more of these invasive moths are introduced into the Western US. My research activities include a combination of species distribution modeling, network analysis of invasion pathways and regional patterns of spread, and simulation modeling of trapping network efficacy\n\n\n\n\n\n\nadult of EGVM\n\n\n\n\n\n\n\nlarvae of EGVM"
-  },
-  {
-    "objectID": "projects.html#environmental-refugia-exclude-reservoir-species",
-    "href": "projects.html#environmental-refugia-exclude-reservoir-species",
-    "title": "Projects",
-    "section": "Environmental refugia exclude reservoir species",
-    "text": "Environmental refugia exclude reservoir species\nIn collaboration with Dr. Catherine L. Searle at Purdue University, I am evaluating the hypothesis that environmental refugia exist for susceptible species under conditions that exclude reservoir species. For this, I am usingthe amphibian host-chytrid pathogen as the study system."
   }
 ]
