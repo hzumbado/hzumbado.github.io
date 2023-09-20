@@ -3,47 +3,47 @@ title: "Publications"
 editor: visual
 ---
 
-### *Peer-reviewed published papers*
+### [Refereed publications]{.underline}
 
-*1. **Zum*****bado-Ulate, H.**, T. E. Schartel, G. S. Simmons & M P. Daugherty. (2023) Assessing the risk of invasion by a vineyard moth (Lepidoptera: Tortricidae) pest complex. ***NeoBiota*** **86: 169-191.**[https://doi.org/10.3897/neobiota.86.100579](#0)
+1\. **Zumbado-Ulate, H.**, T. E. Schartel, G. S. Simmons & M P. Daugherty. (2023) Assessing the risk of invasion by a vineyard moth (Lepidoptera: Tortricidae) pest complex. ***NeoBiota*** **86: 169-191.** [https://doi.org/10.3897/neobiota.86.100579](#0)
 
-2\. **Zumbado-Ulate, H.**, K. Neam, A. García-Rodríguez, L. Ochoa-Ochoa, G. Chaves, J. E Kolby, S. Granados-Martínez, A. Hertz, F. Bolaños, D. Ariano- Sánchez & C. L. Searle. (2022). Ecological correlates of extinction risk and persistence of direct-developing stream-dwelling frogs in Mesoamerica. ***Global Ecology and Conservation*** **38: e02197.** [https://doi.org/10.1016/j.gecco.2022.e02197](#0)
+2\. **Zumbado-Ulate, H.**, K. Neam, A. Garcia-Rodriguez, L. Ochoa-Ochoa, G. Chaves, J. E Kolby, S. Granados-Martinez, A. Hertz, F. Bolanos, D. Ariano- Sanchez & C. L. Searle. (2022). Ecological correlates of extinction risk and persistence of direct-developing stream-dwelling frogs in Mesoamerica. ***Global Ecology and Conservation*** **38: e02197.** [https://doi.org/10.1016/j.gecco.2022.e02197](#0)
 
-3\. **Zumbado-Ulate, H.**, C. L. Searle, G. Chaves, V. Acosta-Chaves, A. Shepack, S. Salazar & A. García-Rodríguez. (2021). Assessing suitable habitats for treefrog species after previous declines in Costa Rica. ***Diversity*** **13: 577.** [https://doi.org/10.3390/d13110577](#0)
+3\. **Zumbado-Ulate, H.**, C. L. Searle, G. Chaves, V. Acosta-Chaves, A. Shepack, S. Salazar & A. Garcia-Rodriguez. (2021). Assessing suitable habitats for treefrog species after previous declines in Costa Rica. ***Diversity*** **13: 577.** [https://doi.org/10.3390/d13110577](#0)
 
-4\. García-Rodríguez, A., D. Basanta, M. García-Castillo, **H. Zumbado-Ulate**, K. Neam, S. Rovito, C. Searle, & G. Parra. (2021). Anticipating the potential impacts of *Batrachochytrium salamandrivorans* on Neotropical salamander diversity. ***Biotropica*** **54: 157-169**. <https://doi.org/10.1111/btp.13042>
+4\. Garcia-Rodriguez, A., D. Basanta, M. Garcia-Castillo, **H. Zumbado-Ulate**, K. Neam, S. Rovito, C. Searle, & G. Parra. (2021). Anticipating the potential impacts of *Batrachochytrium salamandrivorans* on Neotropical salamander diversity. ***Biotropica*** **54: 157-169**. <https://doi.org/10.1111/btp.13042>
 
-5\. Granados-Martínez, S., **H. Zumbado-Ulate**, C.L. Searle, B.F. Oliveira & A. García-Rodríguez. (2021). Niche contraction of an endangered frog driven by the amphibian chytrid fungus. ***EcoHealth*** **18: 134-144.** <https://doi.org/10.1007/s10393-021-01525-z>
+5\. Granados-Martinez, S., **H. Zumbado-Ulate**, C.L. Searle, B.F. Oliveira & A. Garcia-Rodriguez. (2021). Niche contraction of an endangered frog driven by the amphibian chytrid fungus. ***EcoHealth*** **18: 134-144.** <https://doi.org/10.1007/s10393-021-01525-z>
 
 6\. Whitfield, S.M., G. Alvarado, J. Abarca, **H. Zumbado-Ulate**, R. Jimenez & J. Kerby. (2021). Ranavirus is widespread in Costa Rica and co-occurs with threatened amphibians. ***Diseases of Aquatic Organisms*** **144: 89-98*.*** <https://doi.org/10.3354/dao03576>
 
-7\. **Zumbado-Ulate, H.**, A. García-Rodríguez & C. L. Searle. (2021). Species distribution models predict the geographic expansion of an enzootic amphibian pathogen. ***Biotropica*** **53:221-231.** <https://doi.org/10.1111/btp.12863>
+7\. **Zumbado-Ulate, H.**, A. Garcia-Rodriguez & C. L. Searle. (2021). Species distribution models predict the geographic expansion of an enzootic amphibian pathogen. ***Biotropica*** **53:221-231.** <https://doi.org/10.1111/btp.12863>
 
-8\. León, M., **H. Zumbado-Ulate**, A. García-Rodríguez, G. Alvarado, H. Sulaeman, F. Bolaños & V.T. Vredenburg. (2019). *Batrachochytrium dendrobatidis* infection in amphibians predates first known epizootic in Costa Rica. ***PLOS ONE*** 1**4: e0208969.** <https://doi.org/10.1371/journal.pone.0208969>
+8\. Leon, M., **H. Zumbado-Ulate**, A. Garcia-Rodriguez, G. Alvarado, H. Sulaeman, F. Bolanos & V.T. Vredenburg. (2019). *Batrachochytrium dendrobatidis* infection in amphibians predates first known epizootic in Costa Rica. ***PLOS ONE*** 1**4: e0208969.** <https://doi.org/10.1371/journal.pone.0208969>
 
-9\. **Zumbado-Ulate, H.**, K. N. Nelson, A. García-Rodríguez, G. Chaves, E. Arias, F. Bolaños, S. Whitfield & C.L. Searle. (2019). Endemic infection of *Batrachochytrium dendrobatidis* in Costa Rica: Implications for amphibian conservation at regional and species level. ***Diversity*** **11: 129.** <https://doi.org/10.3390/d11080129>
+9.. **Zumbado-Ulate, H.**, K. N. Nelson, A. Garcia-Rodriguez, G. Chaves, E. Arias, F. Bolanos, S. Whitfield & C.L. Searle. (2019). Endemic infection of *Batrachochytrium dendrobatidis* in Costa Rica: Implications for amphibian conservation at regional and species level. ***Diversity*** **11: 129.** <https://doi.org/10.3390/d11080129>
 
-10. **Zumbado-Ulate, H**., A. García-Rodríguez, V.T. Vredenburg & C.L. Searle (2019). Infection with *Batrachochytrium dendrobatidis* is common in tropical lowland habitats: implications for amphibian conservation. ***Ecology and Evolution*** **9: 4917-4930.** <https://doi.org/10.1002/ece3.5098>
+10.. **Zumbado-Ulate, H**., A. Garcia-Rodriguez, V.T. Vredenburg & C.L. Searle (2019). Infection with *Batrachochytrium dendrobatidis* is common in tropical lowland habitats: implications for amphibian conservation. ***Ecology and Evolution*** **9: 4917-4930.** <https://doi.org/10.1002/ece3.5098>
 
-11. Whitfield, S.M., G. Alvarado, J. Abarca, **H. Zumbado-Ulate**, I. Zuñiga, M. Wainwright & J. Kerby. (2017). Differential patterns of *Batrachochytrium dendrobatidis* infection in relict amphibian populations following severe disease-associated declines. ***Diseases of Aquatic Organisms*** **126: 33-41.** <https://doi.org/10.3354/dao03154>
+11\. Whitfield, S.M., G. Alvarado, J. Abarca, **H. Zumbado-Ulate**, I. Zuniga, M. Wainwright & J. Kerby. (2017). Differential patterns of *Batrachochytrium dendrobatidis* infection in relict amphibian populations following severe disease-associated declines. ***Diseases of Aquatic Organisms*** **126: 33-41.** <https://doi.org/10.3354/dao03154>
 
-12. Chaves, G., **H. Zumbado-Ulate**, A. García-Rodríguez & E. Gómez. (2017). *Craugastor taurus*. Diet. ***Herpetological Review*** **48: 158-159.**
+12\. Chaves, G., **H. Zumbado-Ulate**, A. Garcia-Rodriguez & E. Gomez. (2017). *Craugastor taurus*. Diet. ***Herpetological Review*** **48: 158-159.**
 
-13.\**Zumbado-Ulate, H.**, F. Bolaños, G. Gutiérrez-Espeleta & R. Puschendorf.*** **(2014). Extremely low prevalence of the chytrid fungus *Batrachochytrium dendrobatidis* in the tropical dry forest of Costa Rica provides new evidences for a climatic refuge from disease.** EcoHealth\*\*\* **11: 593-602.** <https://doi.org/10.1007/s10393-014-0967-2>
+13\. **Zumbado-Ulate, H.**, F. Bolanos, G. Gutierrez-Espeleta & R. Puschendorf. **(2014).** Extremely low prevalence of the chytrid fungus *Batrachochytrium dendrobatidis* in the tropical dry forest of Costa Rica provides new evidences for a climatic refuge from disease. ***EcoHealth*** **11: 593-602.** <https://doi.org/10.1007/s10393-014-0967-2>
 
-14. Chaves, G., **H. Zumbado-Ulate**, A. García-Rodríguez, E. Gómez, M. J. Ryan & V.T. Vredenburg. (2013). Rediscovery of the streamside frog *Craugastor taurus* (Craugastoridae) in Costa Rica. ***Tropical Conservation Science*** **7: 628-638.** <https://doi.org/10.1177/194008291400700404>
+14\. Chaves, G., **H. Zumbado-Ulate**, A. Garcia-Rodriguez, E. Gomez, M. J. Ryan & V.T. Vredenburg. (2013). Rediscovery of the streamside frog *Craugastor taurus* (Craugastoridae) in Costa Rica. ***Tropical Conservation Science*** **7: 628-638.** <https://doi.org/10.1177/194008291400700404>
 
-15. **Zumbado-Ulate, H.** & V. Acosta. (2013). *Cochranella granulosa* (Granulated glass frog). Feeding behavior. ***Herpetological Review*** **43: 631.**
+15\. **Zumbado-Ulate, H.** & V. Acosta. (2013). *Cochranella granulosa* (Granulated glass frog). Feeding behavior. ***Herpetological Review*** **43: 631.**
 
-16. **Zumbado-Ulate, H.** & B. Willink. (2011). *Craugastor ranoides*. Distribution. ***Herpetological Review*** **42: 236.**
+16\. **Zumbado-Ulate, H.** & B. Willink. (2011). *Craugastor ranoides*. Distribution. ***Herpetological Review*** **42: 236.**
 
-17. **Zumbado-Ulate, H**, F. Bolaños, B. Willink & F. Soley-Guardia (2011). Population status and natural history notes on the critically endangered stream frog *Craugastor ranoides* (Craugastoridae). ***Herpetological Conservation and Biology*** **6:455-464.**
+17\. **Zumbado-Ulate, H**, F. Bolanos, B. Willink & F. Soley-Guardia (2011). Population status and natural history notes on the critically endangered stream frog *Craugastor ranoides* (Craugastoridae). ***Herpetological Conservation and Biology*** **6:455-464.**
 
-18. Puschendorf, R., A.C. Carnaval, J. VanDerWal, **H. Zumbado-Ulate**, F. Bolaños, G. Chaves & R. Alfford. (2009). Distribution models for the amphibian chytrid *Batrachochytrium dendrobatidis* in Costa Rica: proposing climatic refuges as a conservation tool. ***Diversity and distributions*** **15: 401-408.** <https://doi.org/10.1111/j.1472-4642.2008.00548.x>
+18\. Puschendorf, R., A.C. Carnaval, J. VanDerWal, **H. Zumbado-Ulate**, F. Bolanos, G. Chaves & R. Alfford. (2009). Distribution models for the amphibian chytrid *Batrachochytrium dendrobatidis* in Costa Rica: proposing climatic refuges as a conservation tool. ***Diversity and distributions*** **15: 401-408.** <https://doi.org/10.1111/j.1472-4642.2008.00548.x>
 
-19. **Zumbado-Ulate, H**., F. Soley-Guardia & F. Bolaños. (2009). *Craugastor ranoides*. Predation. ***Herpetological Review*** **40: 201.**
+19\. **Zumbado-Ulate, H**., F. Soley-Guardia & F. Bolanos. (2009). *Craugastor ranoides*. Predation. ***Herpetological Review*** **40: 201.**
 
-20. **Zumbado-Ulate, H**., R. Puschendorf & M.M. Chavarría. (2007). *Eleutherodactylus ranoides*. Distribution. ***Herpetological Review*** **38: 184-185.**
+20\. **Zumbado-Ulate, H**., R. Puschendorf & M.M. Chavarria. (2007). *Eleutherodactylus ranoides*. Distribution. ***Herpetological Review*** **38: 184-185.**
 
 ### [Manuscripts in preparation]{.underline}
 
@@ -51,10 +51,10 @@ editor: visual
 
 ### [Outreach publications]{.underline}
 
-Daugherty, M. P. & **H. Zumbado-Ulate**. (In press). Japanesse beetle, *Popillia japónica*. <https://cisr.ucr.edu/invasive-species/>
+Daugherty, M. P. & **H. Zumbado-Ulate**. (In press). Japanesse beetle, *Popillia japanica*. <https://cisr.ucr.edu/invasive-species/>
 
 Daugherty, M. P. & **H. Zumbado-Ulate**. (In press). Emerald ash borer, *Agrilus planipennis* <https://cisr.ucr.edu/invasive-species/>
 
-García-Rodríguez, A. & **H. Zumbado-Ulate**. (2023). Chytrid invasion drives frog redistributions. ***Nature Ecology & Evolution.*** <https://doi.org/10.1038/s41559-023-02184-9>
+Garcia-Rodriguez, A. & **H. Zumbado-Ulate**. (2023). Chytrid invasion drives frog redistributions. ***Nature Ecology & Evolution.*** <https://doi.org/10.1038/s41559-023-02184-9>
 
 Daugherty, M. P. & **H. Zumbado-Ulate**. (2022). Chytrid fungus, *Batrachochytrium dendrobatidis*. <https://cisr.ucr.edu/invasive-species/chytrid-fungus>
