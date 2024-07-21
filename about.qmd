@@ -2,7 +2,6 @@
 title: "About"
 ---
 
-During my career, I have worked on conservation projects for multiple taxa, especially freshwater and terrestrial communities with the aim of developing management plans for threatened species at the regional and local levels. My research methods follow strict scientific design and center on testable hypotheses analized through a combination of spatial analyses, multivariate statistics, and geographic information systems. 
+During my career, I have worked on conservation projects for multiple taxa, especially freshwater and terrestrial communities with the aim of developing management plans for threatened species at the regional and local levels. My research methods follow strict scientific design and multivariate spatial analyses.
 
-I have dedicated most of my reserch, especially during grad school to the study of host-pathogen dynamics in amphibian communities. I mainly examined the effect of the chytrid pathogen ***Batrachochytrium dendrobatidis*** in the distribution of amphibians in the Tropics of Central America. In the last years, I have worked on examining present and predicted future geographic distributions of invasive and native species of multiple taxa. I have also invested time in learning proficient tools to improve data wrangling and visualition, and code reproducibility.
- 
+I have dedicated most of my reserch, especially during the graduate school to the study of host-pathogen dynamics in amphibian communities. I mainly examined the effect of the chytrid pathogen ***Batrachochytrium dendrobatidis*** in the distribution of amphibians in the Tropics of Central America. In the last years, I have worked on examining present and predicted future geographic distributions of invasive and native species of multiple taxa. I have also invested time in learning proficient tools to improve data wrangling and visualition, and code reproducibility.
